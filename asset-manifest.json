@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fcc-quote-generator/static/css/main.77967e15.chunk.css",
+    "main.js": "/fcc-quote-generator/static/js/main.97ae39fb.chunk.js",
+    "main.js.map": "/fcc-quote-generator/static/js/main.97ae39fb.chunk.js.map",
+    "runtime-main.js": "/fcc-quote-generator/static/js/runtime-main.b94249f5.js",
+    "runtime-main.js.map": "/fcc-quote-generator/static/js/runtime-main.b94249f5.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/fcc-quote-generator/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3584cc80.chunk.js": "/fcc-quote-generator/static/js/2.3584cc80.chunk.js",
+    "static/js/2.3584cc80.chunk.js.map": "/fcc-quote-generator/static/js/2.3584cc80.chunk.js.map",
+    "index.html": "/fcc-quote-generator/index.html",
+    "precache-manifest.de59300452d0b725d98ade6af9384844.js": "/fcc-quote-generator/precache-manifest.de59300452d0b725d98ade6af9384844.js",
+    "service-worker.js": "/fcc-quote-generator/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/fcc-quote-generator/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.77967e15.chunk.css.map": "/fcc-quote-generator/static/css/main.77967e15.chunk.css.map",
+    "static/js/2.3584cc80.chunk.js.LICENSE.txt": "/fcc-quote-generator/static/js/2.3584cc80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b94249f5.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3584cc80.chunk.js",
+    "static/css/main.77967e15.chunk.css",
+    "static/js/main.97ae39fb.chunk.js"
+  ]
+}
