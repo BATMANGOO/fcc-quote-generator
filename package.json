@@ -13,6 +13,7 @@
     "react-fcctest": "^1.3.5",
     "react-scripts": "3.4.3"
   },
+  "homepage": "https://batmangoo.github.io/fcc-quote-generator/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

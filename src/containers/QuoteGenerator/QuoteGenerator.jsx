@@ -5,9 +5,6 @@ const body = document.getElementById('root');
 
 
 const QuoteGenerator = props => {
-  // const quoteTxt = document.querySelector('#text');
-  // console.log(quoteTxt);
-  
   // Helper function to call twitter share.
   const shareQuote = event => {
     event.preventDefault();
@@ -16,9 +13,6 @@ const QuoteGenerator = props => {
   //styles
   body.style.backgroundColor = props.pallet[props.colorIdx];
   body.style.transition = '1.5s ease';
-  // quoteTxt.animate({opacity: 0}, 500, function() {
-  //   this.animate({opacity: 1}, 500);
-  // })
 
   return (
     <div id="quote-box">
